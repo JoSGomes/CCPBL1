@@ -3,9 +3,9 @@ Repositório dedicado ao problema 1 da disciplina de Concorrência e Conectivida
 
 ## Requisitos
 
-PHP (pode ser instalado via xampp)
+- PHP (pode ser instalado via xampp)
 
-É necessário também ir no diretório em que o php instalado e procurar o arquivo "php.ini", nele é necessário incluir "extension=php_sockets.dll" às extensões, se, por algum motivo, esse dll não existir ele poder ser encontrado em <a href="https://www.php.net/downloads.php"> php.net</a>
+- É necessário também ir no diretório em que o php instalado e procurar o arquivo "php.ini", nele é necessário incluir "extension=php_sockets.dll" às extensões, se, por algum motivo, esse dll não existir ele poder ser encontrado em <a href="https://www.php.net/downloads.php"> php.net</a>
 
 ## Organização das pastas
 
